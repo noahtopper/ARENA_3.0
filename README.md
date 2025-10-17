@@ -17,20 +17,6 @@ You can find a summary of each of the chapters below. For more detailed informat
 
 Additionally, see [this Notion page](https://arena-resources.notion.site/) for a guide to the virtual study materials available.
 
-# [Chapter 0: Fundamentals](https://arena-chapter0-fundamentals.streamlit.app/)
-
-<img src="https://raw.githubusercontent.com/callummcdougall/computational-thread-art/master/example_images/misc/headers/header-ch0.png" width="400">
-
-The material on this page covers the first five days of the curriculum. It can be seen as a grounding in all the fundamentals necessary to complete the more advanced sections of this course (such as RL, transformers, mechanistic interpretability, training at scale, and generative models).
-
-Some highlights from this chapter include:
-
-* Building your own 1D and 2D convolution functions
-* Building and loading weights into a Residual Neural Network, and finetuning it on a classification task
-* Working with [weights and biases](https://wandb.ai/site) to optimise hyperparameters
-* Implementing your own backpropagation mechanism
-* Building your own GANs and VAEs, and using them to generate images
-
 # [Chapter 1: Transformer Interpretability](https://arena-chapter1-transformer-interp.streamlit.app/)
 
 <img src="https://raw.githubusercontent.com/callummcdougall/computational-thread-art/master/example_images/misc/headers/header-ch1.png" width="400">
